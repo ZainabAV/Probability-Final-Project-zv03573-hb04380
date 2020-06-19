@@ -11,7 +11,9 @@ This is a project on random walk simulation modelling using Python.
 
 -A report is present as a .txt file explaining the simulation models.
 
--A snapshot for a random instance of each of the models is present as .jpg files.
+-A snapshot for average values over a number of trials of each of the models (Task 1, 2 and 4) is present as .PNG files.
+
+-Video captures with amplified values for Task 3 and 8 are provided for the sake of a visual representation as .AVI files.
 
 Date: 19/06/2020
 
