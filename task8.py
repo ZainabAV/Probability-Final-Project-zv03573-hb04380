@@ -97,7 +97,7 @@ def task8(t, r):
 
 
         DISTANCE = ((x_new-x2_new)**2+(y_new-y2_new)**2)**0.5
-        if DISTANCE < 1:
+        if DISTANCE <= 1:
             break
         
         LST.append(Pos)
